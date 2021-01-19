@@ -9,6 +9,7 @@ description: Digital home for Brad Garland, CPA
 # better with square images
 external-image: false
 picture: assets/images/bg_profile.png
+alt_picture: assets/images/bg_large.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
@@ -34,7 +35,6 @@ permalink: /:title/
 #   categories: [] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
 twitter: TaxPoetic
 instagram: brandblackwell
 linkedin: taxpoetic
@@ -42,18 +42,12 @@ reddit: HuntsvilleCPA
 email: brad@brandblackwell.com
 
 authors:
-  johndoe:
-    name: John Doe
-    bio: A Man who travels the world eating noodles
+  bradgarland:
+    name: Brad Garland
+    bio: A Certified Public Accountant and civic leader in Huntsville, AL.
     external-image: false
-    picture: assets/images/profile.jpg
-    twitter: johndoe
-  jamesfoster:
-    name: James Foster
-    bio: A Man who develops software with coffee
-    external-image: false
-    picture: assets/images/james.jpg
-    twitter: jamesfoster
+    picture: assets/images/bg_profile.png
+    twitter: TaxPoetic
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal

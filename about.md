@@ -2,45 +2,23 @@
 title: About
 layout: page
 ---
-![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
+![Profile Image]({% if site.external-image %}{{ site.alt_picture }}{% else %}{{ site.url }}/{{ site.alt_picture }}{% endif %})
 
-<p>Lorem Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>Brad is a Certified Public Accountant and civic leader in Huntsville, AL. He recieved his B.S.B.A. in accounting from Auburn Univesity and currently practices as a CPA with <a href="https://brandblackwell.com/">Brand Blackwell & Co.</a></p>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>Brad is also a founding member of the <a href="http://bnialabama.com/bnicove/">Cove chapter of BNI</a>; is the Treasurer for Kinertia, the entity that curates <a href="http://tedxhuntsville.com/site/">TEDxHuntsville</a>; is Treasurer of <a href="http://www.rockethatch.org/">Rocket Hatch</a>; serves on Auburn University's <a href="http://harbert.auburn.edu/academics/departments/school-of-accountancy/">School of Accountancy Advisory Council</a>; and is a co-founder of <a href="https://rocketsgo.org/">Rocket City Scholarship Granting Organization</a>.</p>
 
-<h2>Skills</h2>
+<h2>Areas of Emphasis</h2>
 
 <ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>NodeJS</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
+	<li>Business, Individual, and not-for-profit taxation</li>
+	<li>Small/local business and start-up/entrepreneurship consulting</li>
+	<li>QuickBooks Online Certified ProAdvisor</li>
 </ul>
 
-<h2>Projects</h2>
+<h2>Professional Organizations</h2>
 
 <ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
+	<li><a href="http://www.aicpa.org/">American Institute of Certified Public Accountants</a></li>
+	<li><a href="http://www.ascpa.org/">Alabama Society of Certified Public Accountants</a></li>
 </ul>

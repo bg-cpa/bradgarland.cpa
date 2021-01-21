@@ -4,10 +4,6 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.alt_picture }}{% else %}{{ site.url }}/{{ site.alt_picture }}{% endif %})
 
-{% assign word1 = "civic,creative,organized,efficient,poetic,professional,reluctant" | split: "," %}
-{% assign word2 = "leader,organizer,creative,accountant,innovator,Huntsvillian,adoptee" | split: "," %}
-
-
 <p>Brad is a Certified Public Accountant and <span id="title"></span>. He recieved his B.S.B.A. in accounting from Auburn Univesity and currently practices as a CPA with <a href="https://brandblackwell.com/">Brand Blackwell & Co.</a></p>
 
 <!-- Random title generator -->

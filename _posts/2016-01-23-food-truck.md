@@ -2,7 +2,7 @@
 title: "Ye Olde Timey Foode Truck"
 layout: post
 date: 2016-01-23 22:10
-tag: extra
+tag: extra auburn
 image: https://www.pointfranchise.co.uk/images/zoom/articles/food-truck-franchises.jpg
 headerImage: true
 projects: true

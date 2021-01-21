@@ -72,7 +72,7 @@ company: true
 
 company_id:
   brandblackwell:
-    name: Brand Blackwell & Co.
+    name: Brand Blackwell
 
 # do you want to show the "read time" of the posts?
 read-time: true

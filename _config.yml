@@ -68,12 +68,6 @@ projects: false
 video: true
 company: true
 
-# Company details
-
-company_id:
-  brandblackwell:
-    name: Brand Blackwell
-
 # do you want to show the "read time" of the posts?
 read-time: true
 
@@ -129,6 +123,3 @@ exclude:
     "node_modules",
     "vendor",
   ]
-
-  # Random title
-  

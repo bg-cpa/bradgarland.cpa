@@ -1,6 +1,9 @@
 # main text of home
 name: Tax Poetic with Brad Garland
-bio: More than just tax prose. <i>test</i>
+bio: More than just tax prose - a <span id="title"></span>.
+
+<!-- Random title generator -->
+<script src="/assets/js/title_gen.js" type="text/javascript"></script>
 
 
 

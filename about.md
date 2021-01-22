@@ -4,7 +4,7 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.alt_picture }}{% else %}{{ site.url }}/{{ site.alt_picture }}{% endif %})
 
-<p>Brad is a Certified Public Accountant and <span id="title"></span>. He recieved his B.S.B.A. in accounting from Auburn Univesity and currently practices as a CPA with <a href="https://brandblackwell.com/">Brand Blackwell & Co.</a></p>
+<p>Brad is a Certified Public Accountant and <span id="title"></span>. He received his B.S.B.A. in Accounting from Auburn Univesity and currently practices as a CPA with <a href="https://brandblackwell.com/">Brand Blackwell.</a></p>
 
 <!-- Random title generator -->
 <script src="/assets/js/title_gen.js" type="text/javascript"></script>

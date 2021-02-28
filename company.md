@@ -3,4 +3,4 @@ title: Company
 layout: page
 company: Brand Blackwell
 ---
-This is page will be about {{ page.company }}
+Brad is a shareholder at {{ page.company }}. <a href="http://brandblackwell.com">Visit the company website.</a>

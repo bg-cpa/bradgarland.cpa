@@ -1,7 +1,7 @@
 ---
-title: Video
+title: Huntsville
 layout: page
 ---
 <br>
-## Video Title
+## Huntsville Title
 Coming Soon: This Week in Huntsville

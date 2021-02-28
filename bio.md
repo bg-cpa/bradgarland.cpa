@@ -1,5 +1,5 @@
 ---
-title: About
+title: Bio
 layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.alt_picture }}{% else %}{{ site.url }}/{{ site.alt_picture }}{% endif %})

@@ -35,7 +35,7 @@ The Frankensteins are glad the marriage penalty is a thing of the past.
 Local high school girl goes to prom, but has a big bucket of prior year losses dumped on her.
 
 5. The AMT-ville Horror
-
+<img src="/assets/images/1520585369145.jfif">
 Family moves into new house, encounters AMT.
 
 6. NOL-sferatu
@@ -43,7 +43,7 @@ Family moves into new house, encounters AMT.
 A classic about a being that draws strength by feasting on the net operating losses of others.
 
 7. The Hills Have IFRS
-
+<img src="/assets/images/1520585367580.jfif">
 Meet the horror known as IFRS!
 
 8. The Accounting Firm in the Woods
@@ -59,7 +59,7 @@ The werewolf still gets taxed by the state, though.
 They want your brains...
 
 11. I Know What You Did Last Sequester
-
+<img src="/assets/images/1520273390419.jfif">
 Starring Jennifurlough Love-Hewitt. 
 
 12. Dependents of the Corn
@@ -67,5 +67,5 @@ Starring Jennifurlough Love-Hewitt.
 A town of dependent exemptions and child tax credits, but no tax return to claim them.
 
 13. Paranormal Schedule C Activity
-
+<img src="/assets/images/1520191617119.jfif">
 Quick, someone look up the NAICS code...for TERROR!

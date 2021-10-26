@@ -24,7 +24,6 @@ Rises every tax day to submit erroneous returns. Watch out, first-time filers!
 
 Evil spirits wreck your government contract.
 
-
 3. The MFJ Spouse of Frankenstein
 
 The Frankensteins are glad the marriage penalty is a thing of the past.
@@ -37,7 +36,6 @@ Local high school girl goes to prom, but has a big bucket of prior year losses d
 
 Family moves into new house, encounters AMT.
 
-
 6. NOL-sferatu
 
 A classic about a being that draws strength by feasting on the net operating losses of others.
@@ -45,7 +43,6 @@ A classic about a being that draws strength by feasting on the net operating los
 7. The Hills Have IFRS
 
 Meet the horror known as IFRS!
-
 
 8. The Accounting Firm in the Woods
 
@@ -59,10 +56,9 @@ The werewolf still gets taxed by the state, though.
 
 They want your brains...
 
-﻿11. I Know What You Did Last Sequester
+11. I Know What You Did Last Sequester
 
 Starring Jennifurlough Love-Hewitt. 
-
 
 12. Dependents of the Corn
 
@@ -71,5 +67,3 @@ A town of dependent exemptions and child tax credits, but no tax return to claim
 13. Paranormal Schedule C Activity
 
 Quick, someone look up the NAICS code...for TERROR!
-
-

@@ -26,6 +26,8 @@ Evil spirits wreck your government contract.
 
 3. The MFJ Spouse of Frankenstein
 
+<img src="/assets/images/1520275702029.jfif">
+
 The Frankensteins are glad the marriage penalty is a thing of the past.
 
 4. Carrie-Over Losses

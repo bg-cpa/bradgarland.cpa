@@ -22,7 +22,8 @@ The Pumpkin King kidnaps Uncle Sam. No one misses him.
 
 <BR>
 
-<B>2. Phantom Gains of the Opera</B>
+<B>2. Phantom Gains of the Opera</B><BR>
+<img src="/assets/images/phantom.jpg">
 
 The opera's gain from the sale of an investment is offset by a loss in the same investment.
 
@@ -30,7 +31,6 @@ The opera's gain from the sale of an investment is offset by a loss in the same 
 
 <B>3. Resident Evil: Sole-Source Justification</B>
 <BR>
-<img src="/assets/images/1520275702029.jfif">
 <BR>
 Based on the video game where you select a sole source and the normal bid process is not used.
 <BR>
@@ -41,7 +41,7 @@ Tourists hire an extreme accountant to help them explore the ruins of a radioact
 <BR>
 <BR>
 <b>5. Eraserhead of Household</B><BR>
-
+<img src="/assets/images/eraser.jpg"><BR>
 David Lynch is able to file Head of Household after letting Henry stay with him.
 <BR>
 <BR>
@@ -50,8 +50,8 @@ David Lynch is able to file Head of Household after letting Henry stay with him.
 A lonely boy befriends what appears to be a girl that just moved in next door. But does she actually qualify for the dependent exemption?
 <BR>
 
-<B>7. Rollforward of the Dead</B>
-<BR>
+<B>7. Rollforward of the Dead</B><BR>
+<BR><img src="/assets/images/rollforward.jpg"><BR>
 A swarm of time-traveling zombies move from one year to the next. Only an intrepid group of auditors can halt their hunger for temporal lobes.
 <BR>
 
@@ -66,9 +66,10 @@ The $1,000 refundable credit isn't quite as it seems. This is due to your income
 <BR>
 
 <B>10. The Purge: Materiality</B>
-<BR>
+<BR><img src="/assets/images/purge.jpg"><BR>
 Can your financials survive the 12-hour window where any and all materiality is limited to $1?
 <BR>
+    
 <B>11. So I Married a Tax Evader</B>
 <BR>
 Fortunate are the unwed.
@@ -80,6 +81,7 @@ If I have something shipped to the moon, do I owe use tax, or will Amazon collec
 <BR>
 <BR>
 <B>13. Taxes Chainsaw Massacre</B>
-<BR>
+<BR><img src="/assets/images/chainsaw.jpg">
+
 He'll cut your taxes!
 <BR>

@@ -4,12 +4,12 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.alt_picture }}{% else %}{{ site.url }}/{{ site.alt_picture }}{% endif %})
 
-<p>Brad is a Certified Public Accountant and <span id="title"></span>. He received both his B.S.B.A. in Accounting and Master of Accountancy from Auburn University. He is a shareholder at <a href="https://brandblackwell.com/">Brand Blackwell.</a></p>
+<p>Brad is a Certified Public Accountant and <span id="title"></span>. He received both his B.S.B.A. in Accounting and Master of Accountancy from Auburn University. He is a CPA at <a href="https://brandblackwell.com/">Brand Blackwell.</a></p>
 
 <!-- Random title generator -->
 <script src="/assets/js/title_gen.js" type="text/javascript"></script>
 
-<p>Brad is also a founding member of the <a href="http://bnialabama.com/bnicove/">Cove chapter of BNI</a>; is the Treasurer for Kinertia, the entity that curates <a href="http://tedxhuntsville.com/site/">TEDxHuntsville</a>; is Treasurer of <a href="http://www.rockethatch.org/">Rocket Hatch</a>; serves on Auburn University's <a href="http://harbert.auburn.edu/academics/departments/school-of-accountancy/">School of Accountancy Advisory Council</a>; and is a co-founder of <a href="https://rocketsgo.org/">Rocket City Scholarship Granting Organization</a>.</p>
+<p>Brad is also a founding member of the <a href="http://bnialabama.com/bnicove/">Cove chapter of BNI</a>; serves the Community Foundation of Greater Huntsville, Kinertia (the entity that curates <a href="http://tedxhuntsville.com/site/">TEDxHuntsville</a>), and Auburn University's <a href="http://harbert.auburn.edu/academics/departments/school-of-accountancy/">School of Accountancy Advisory Council</a>; and is a co-founder of <a href="https://rocketsgo.org/">Rocket City Scholarship Granting Organization</a>.</p>
 
 <h2>Areas of Emphasis</h2>
 

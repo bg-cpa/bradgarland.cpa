@@ -9,7 +9,7 @@ layout: page
 <!-- Random title generator -->
 <script src="/assets/js/title_gen.js" type="text/javascript"></script>
 
-<p>Brad is also a founding member of the <a href="http://bnialabama.com/bnicove/">Cove chapter of BNI</a>; serves the Community Foundation of Greater Huntsville, Kinertia (the entity that curates <a href="http://tedxhuntsville.com/site/">TEDxHuntsville</a>), and Auburn University's <a href="http://harbert.auburn.edu/academics/departments/school-of-accountancy/">School of Accountancy Advisory Council</a>; and is a co-founder of <a href="https://rocketsgo.org/">Rocket City Scholarship Granting Organization</a>.</p>
+<p>Brad is also a founding member of the <a href="http://bnialabama.com/bnicove/">Cove chapter of BNI</a>; serves the <a href="https://www.communityfoundationhsv.org/">Community Foundation of Greater Huntsville</a>, Kinertia (the entity that curates <a href="http://tedxhuntsville.com/site/">TEDxHuntsville</a>), and Auburn University's <a href="http://harbert.auburn.edu/academics/departments/school-of-accountancy/">School of Accountancy Advisory Council</a>; and is a co-founder of <a href="https://rocketsgo.org/">Rocket City Scholarship Granting Organization</a>.</p>
 
 <h2>Areas of Emphasis</h2>
 

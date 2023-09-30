@@ -4,7 +4,7 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.alt_picture }}{% else %}{{ site.url }}/{{ site.alt_picture }}{% endif %})
 
-<p>Brad is a Certified Public Accountant and <span id="title"></span>. He received both his B.S.B.A. in Accounting and Master of Accountancy from Auburn University. He is a CPA at <a href="https://brandblackwell.com/">Brand Blackwell.</a></p>
+<p>Brad is a Certified Public Accountant and <span id="title"></span>. He received both his B.S.B.A. in Accounting and Master of Accountancy from Auburn University. He is a partner and founder at <a href="https://honeycomb.cpa/">Honeycomb CPAs & Advisors.</a></p>
 
 <!-- Random title generator -->
 <script src="/assets/js/title_gen.js" type="text/javascript"></script>

@@ -21,6 +21,5 @@ layout: page
 <h2>Professional Organizations</h2>
 
 <ul>
-	<li><a href="http://www.aicpa.org/">American Institute of Certified Public Accountants</a></li>
 	<li><a href="http://www.ascpa.org/">Alabama Society of Certified Public Accountants</a></li>
 </ul>

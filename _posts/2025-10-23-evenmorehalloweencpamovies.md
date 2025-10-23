@@ -45,11 +45,14 @@ A whole new generation of kids is introduced to the anxiety when following truck
 <BR>
 <BR>
 <B>6. Terri-filer</B>
-<BR>
+<BR><img src="/assets/images/terrifiler.png" height="375">
+
 This gory movie stars a tax preparer that still files on paper. And the paper gives you paper cuts!
 <BR>
 
 <B>7. 28 Tax Seasons Later</B><BR>
+<img src="/assets/images/28taxszn.png" height="375">
+
 These rage zombies haven't raised their fees in 28 tax seasons!
 <BR>
 
